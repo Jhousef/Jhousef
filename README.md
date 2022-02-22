@@ -1,4 +1,4 @@
-## Olá, Mund... Ops😄 Olá, meu nome é Jhousef🤖
+## Olá, Mund... ops😄 Olá, meu nome é Jhousef🤖
 
 ### Esse é o meu GitHub, Sinta-se à vontade!🙃
 
