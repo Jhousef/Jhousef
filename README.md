@@ -3,9 +3,9 @@
 ### Esse é o meu GitHub, Sinta-se à vontade!🙃
 
 - 🔭 No momento estudo Js e algumas bibliotecas...
-- 👾 Estudando <?php echo 'PHP'; ?>
-- 📆 Já estudo programação faz um tempinho
-- ⚡ Focado em ser um Fullstack
+- 👾 Estudando PHP no momento.
+- 📆 Já estudo programação faz um tempinho.
+- ⚡ Focado em ser um Fullstack.
 
 <div align="center">
   <a href="https://github.com/Jhousef">
