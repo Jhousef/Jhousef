@@ -3,7 +3,7 @@
 ### Esse é o meu GitHub, Sinta-se à vontade!🙃
 
 - 🔭 No momento estudo Js e algumas bibliotecas...
-- 👾 Futuramente irei dominar PHP
+- 👾 Estudando <?php echo 'PHP'; ?>
 - 📆 Já estudo programação faz um tempinho
 - ⚡ Focado em ser um Fullstack
 
