@@ -33,9 +33,9 @@
 
 ##
 
-- ###  Projeto Site de Ótica
-#### Fiz esse site para treinar e me aperfeiçoar em estilização enquanto também apendria javascript.
-#### Utilizei HTML, CSS e JavaScript como parte do meu aprendizado, aprofundando-me na compreensão da estrutura do HTML. Durante esse processo, explorei a criação de formulários e até mesmo desenvolvi modais utilizando JavaScript. Essas atividades têm me proporcionado uma compreensão mais profunda sobre como essas tecnologias se interligam para criar experiências interativas na web.
+- ##  Projeto Site de Ótica
+### Fiz esse site para treinar e me aperfeiçoar em estilização enquanto também apendria javascript.
+Utilizei HTML, CSS e JavaScript como parte do meu aprendizado, aprofundando-me na compreensão da estrutura do HTML. Durante esse processo, explorei a criação de formulários e até mesmo desenvolvi modais utilizando JavaScript. Essas atividades têm me proporcionado uma compreensão mais profunda sobre como essas tecnologias se interligam para criar experiências interativas na web.
 
 <div align="center">
 <img src="https://github.com/Jhousef/Jhousef/assets/83997175/0220f7df-62e3-44dc-8fe2-2a7649d8484f" width="608px" />
@@ -47,6 +47,8 @@
 <img src="https://github.com/Jhousef/Jhousef/assets/83997175/6104487a-2e15-4b49-97f7-b75062978e85" width="200px" />
 </div>
 
-#### Está responsivo, então você consegue acessar em todas as telas como em celular, tablet e computador.
-#### você pode visualizar e testar facilmente usando o link logo abaixo onde este site está hospedado.
-<a href="https://site-otica.netlify.app/">Site Ótica</a>
+##
+
+### O Site está responsivo, então você consegue acessar em todas as telas, como em celular, tablet e computador.
+### Você pode visualizar e testar facilmente usando o link logo abaixo onde este site está hospedado.
+Está aqui o link: <a href="https://site-otica.netlify.app/">Site Ótica</a>
