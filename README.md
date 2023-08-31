@@ -30,5 +30,23 @@
   <a href = "mailto:jhousefkl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhousef-muniz-b10a35202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-  ![Snake animation](https://github.com/Jhousef/Jhousef/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+- ###  Projeto Site de Ótica
+#### Fiz esse site para treinar e me aperfeiçoar em estilização enquanto também apendria javascript.
+#### Utilizei HTML, CSS e JavaScript como parte do meu aprendizado, aprofundando-me na compreensão da estrutura do HTML. Durante esse processo, explorei a criação de formulários e até mesmo desenvolvi modais utilizando JavaScript. Essas atividades têm me proporcionado uma compreensão mais profunda sobre como essas tecnologias se interligam para criar experiências interativas na web.
+
+<div align="center">
+<img src="https://github.com/Jhousef/Jhousef/assets/83997175/0220f7df-62e3-44dc-8fe2-2a7649d8484f" width="608px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/Jhousef/Jhousef/assets/83997175/296662d1-ae74-495a-82eb-123f769de7bb" width="200px" />
+<img src="https://github.com/Jhousef/Jhousef/assets/83997175/ff204d79-b78e-4d61-91ff-8d85b717f175" width="200px" />
+<img src="https://github.com/Jhousef/Jhousef/assets/83997175/6104487a-2e15-4b49-97f7-b75062978e85" width="200px" />
+</div>
+
+#### Está responsivo, então você consegue acessar em todas as telas como em celular, tablet e computador.
+#### você pode visualizar e testar facilmente usando o link logo abaixo onde este site está hospedado.
+<a href="https://site-otica.netlify.app/">Site Ótica</a>
