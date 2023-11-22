@@ -34,7 +34,7 @@
 ##
 
 - ##  Projeto Site de Ótica
-### Fiz esse site para treinar e me aperfeiçoar em estilização enquanto também apendria javascript.
+### Fiz esse site para treinar e me aperfeiçoar em estilização enquanto também aprendia javascript.
 Utilizei HTML, CSS e JavaScript como parte do meu aprendizado, aprofundando-me na compreensão da estrutura do HTML. Durante esse processo, explorei a criação de formulários e até mesmo desenvolvi modais utilizando JavaScript. Essas atividades têm me proporcionado uma compreensão mais profunda sobre como essas tecnologias se interligam para criar experiências interativas na web.
 
 <div align="center">
